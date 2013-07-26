@@ -1,0 +1,25 @@
+.ui-slider{background-color:#dddddd;}
+.ui-slider-horizontal{height:9px;}
+.ui-slider-vertical{width:9px;}
+.ui-slider-handle{border-radius:0;background-color:#2091cf;border:2px solid #ffffff;border-radius:20px;}
+.ui-slider-handle:before{display:inline-block;content:" ";font-size:7px;font-family:Arial,Helvetica,sans-serif;position:absolute;top:0;bottom:0;left:0;right:0;text-align:center;line-height:14px;background:#ffffff;border-radius:20px;}
+.ui-slider-handle:hover{background-color:#ffffff;}
+.ui-slider-handle:hover,.ui-slider-handle:focus,.ui-slider-handle:active{outline:none;box-shadow:1px 1px 1px 0px rgba(0, 0, 0, 0.3);text-decoration:none;}
+.ui-slider-handle:hover:before,.ui-slider-handle:focus:before,.ui-slider-handle:active:before{text-shadow:1px 1px 1px rgba(0, 0, 0, 0.3);}
+.ui-slider-small.ui-slider-horizontal{height:5px;}
+.ui-slider-small.ui-slider-vertical{width:5px;}
+.ui-slider-small .ui-slider-handle{border-radius:24px;width:14px;height:14px;top:-5px;}
+.ui-slider-small .ui-slider-handle:before{font-size:6px;line-height:13px;}
+.ui-slider-range{background-color:#2091cf;}
+.ui-slider-handle{outline:none !important;}
+.ui-slider-handle,.ui-slider-handle:hover,.ui-slider-handle:focus,.ui-slider-handle:active{border-color:#2091cf;color:#2091cf;}
+.ui-slider-green .ui-slider-range{background-color:#48ca3b;}
+.ui-slider-green .ui-slider-handle,.ui-slider-green .ui-slider-handle:hover,.ui-slider-green .ui-slider-handle:focus,.ui-slider-green .ui-slider-handle:active{border-color:#48ca3b;color:#48ca3b;}
+.ui-slider-red .ui-slider-range{background-color:#ad1d28;}
+.ui-slider-red .ui-slider-handle,.ui-slider-red .ui-slider-handle:hover,.ui-slider-red .ui-slider-handle:focus,.ui-slider-red .ui-slider-handle:active{border-color:#ad1d28;color:#ad1d28;}
+.ui-slider-purple .ui-slider-range{background-color:#00bce1;}
+.ui-slider-purple .ui-slider-handle,.ui-slider-purple .ui-slider-handle:hover,.ui-slider-purple .ui-slider-handle:focus,.ui-slider-purple .ui-slider-handle:active{border-color:#00bce1;color:#00bce1;}
+.ui-slider-orange .ui-slider-range{background-color:#df6e1e;}
+.ui-slider-orange .ui-slider-handle,.ui-slider-orange .ui-slider-handle:hover,.ui-slider-orange .ui-slider-handle:focus,.ui-slider-orange .ui-slider-handle:active{border-color:#df6e1e;color:#df6e1e;}
+.ui-slider-dark .ui-slider-range{background-color:#111111;}
+.ui-slider-dark .ui-slider-handle,.ui-slider-dark .ui-slider-handle:hover,.ui-slider-dark .ui-slider-handle:focus,.ui-slider-dark .ui-slider-handle:active{border-color:#111111;color:#111111;}
